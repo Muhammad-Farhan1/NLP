@@ -1,4 +1,4 @@
-# NLP — Natural Language Processing Notebooks
+# NLP — (Natural Language Processing) Notebooks
 
 A hands-on collection of Jupyter notebooks walking through core Natural Language Processing concepts — from raw text cleaning all the way to modern word embeddings — applied to real datasets like IMDB movie reviews.
 
