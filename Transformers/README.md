@@ -1,4 +1,4 @@
-# Transformers - NLP Learning Project 🤖
+# Transformers - NLP Learning  🤖
 
 This repository contains my learning journey and implementation work around **Transformer models in NLP (Natural Language Processing)** using PyTorch and Hugging Face ecosystem.
 
